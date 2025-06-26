@@ -17,3 +17,11 @@ This repository is licensed under the CC0 1.0 Universal License. Ensure that eac
 
 Contact
 For questions or suggestions, please open an issue or contact the repository owner at [milleschitzflorian@gmail.com].
+
+git clone https://github.com/fmilleschitz/books.git
+
+git pull origin main
+Work on it
+git add .
+git commit -m "Text"
+git push origin main

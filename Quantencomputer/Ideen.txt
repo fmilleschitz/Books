@@ -1,0 +1,14 @@
+Titel: Quantencomputer für Anfänger (oder so)
+Cover
+Copyright Disclaimer
+Inhaltsverzeichnis:
+	Kapitel 1: Vorwort
+	Kapitel 2: Geschichte des Computers
+	Kapitel 3: Unterschiedliche Arten von Computern
+	Kapitel 4: Wie funktioniert ein normaler Computer
+	Kapitel 5: Was sind Quanten und was ist Quantenphysik
+	Kapitel 6: Wie funktioniert ein Quantencomputer
+	Kapitel 7: Schlusswort
+	Kapitel 8: Quellenverzeichnis
+	Kapitel 9: Lexikon
+	Kapitel 10: Fußnoten

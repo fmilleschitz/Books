@@ -1,8 +1,0 @@
-git clone https://github.com/fmilleschitz/books.git
-
-git pull origin main
-Work on it
-git commit -m "Text"
-git push origin main
-
-
